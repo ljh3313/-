@@ -1,0 +1,31 @@
+
+body{
+    margin-top: 50px;
+}
+
+.navbar-title{
+    color: gainsboro;
+    text-align: center;
+    font-size: 20px;
+    margin: 15px;
+    line-height: 20px;
+}
+.glyphicon{
+   cursor: pointer;
+}
+form{
+    padding-top: 10px;
+}
+.media img{
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+.media{
+    border-bottom: 1px solid gainsboro;
+    padding: 5px 5px 20px;
+}
+.media-footing{
+    color: #888888;
+    font-size: 13px;
+}

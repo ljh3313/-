@@ -1,0 +1,1 @@
+{"username":"Kobe12","psw":"1234","check_psw":"1234","sex":"man","email":"565151426@qq.com","scoure":"html"}

@@ -1,0 +1,25 @@
+﻿"Bootstrap文档基本结构": {
+		"prefix": "boot",
+		"body": [
+            "<!DOCTYPE html>",
+			"<html lang=\"zh-CN\">",
+            "\t<head>",
+            "\t\t<meta charset=\"utf-8\">",
+            "\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+            "\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\">",
+            "\t\t<meta name=\"author\" content=\"\">",
+            "\t\t<title>$1</title>",
+            "\t\t<link href=\"css/bootstrap.min.css\" rel=\"stylesheet\">",
+            "\t\t<style>",
+            "\t\t\t",
+            "\t\t</style>",
+            "\t</head>",
+            "\t<body>",
+            "\t\t$2",
+            "\t\t<script src=\"js/jquery.min.js\"></script>",
+            "\t\t<script src=\"js/bootstrap.min.js\"></script>",
+            "\t</body>",
+            "</html>"
+		],
+		"description": "Bootstrap文档基本结构"
+	}
